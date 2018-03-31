@@ -1,6 +1,6 @@
 {
- "name":"PresentationPoll",
- "version": "0.0.1",
+  "name": "PresentationPoll",
+  "version": "0.0.1",
   "description": "An app that allows speakers to poll audience members",
   "main": "app-server.js",
   "dependencies": {
